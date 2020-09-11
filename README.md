@@ -46,14 +46,13 @@ The analysis of the election show that:
 - The county with the largest amount of votes was:
     - Denver county which had 82% of the total votes cast which was equal to 306,055 votes.
 
-Code example of Repetetion Statement, calculations and writing to file for County data:
+Code example of Repetition Statement, calculations and writing to file for County data:
 
-![Code Example](resources\RepetitionStatement.png)
-
+![Code Example:](resources/RepetitionStatement.png)
 
 Printout of the election results:
 
-![Election Results](resources\ElectionResults.png)
+![Election Results:](resources/ElectionResults.png)
 
 ## Summary
 After creating a python script to tabulate the winner of the election, the breakdown of votes and turnouts in the counties, I believe this script could be modified in the following ways to be used for any election.
