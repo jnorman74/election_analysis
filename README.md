@@ -48,11 +48,11 @@ The analysis of the election show that:
 
 Code example of Repetition Statement, calculations and writing to file for County data:
 
-![Code Example:](resources/RepetitionStatement.png)
+![Code Example:](resources/RepetitionStatement.PNG)
 
 Printout of the election results:
 
-![Election Results:](resources/ElectionResults.png)
+![Election Results:](resources/ElectionResults.PNG)
 
 ## Summary
 After creating a python script to tabulate the winner of the election, the breakdown of votes and turnouts in the counties, I believe this script could be modified in the following ways to be used for any election.
